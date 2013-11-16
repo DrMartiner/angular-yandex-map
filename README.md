@@ -122,3 +122,6 @@ Using
 Example
 -----
 A directory in the example are examples of the directive.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DrMartiner/angular-yandex-map/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
